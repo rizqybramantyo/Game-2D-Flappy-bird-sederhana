@@ -1,0 +1,96 @@
+F:\Pemograman Game\Latihan01\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\Assembly-CSharp.dll
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\nunit.framework.dll
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\UnityEditor.dll
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\UnityEngine.dll
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\UnityEngine.TestRunner.dll
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\UnityEngine.Timeline.dll
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\UnityEngine.UI.dll
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\Mono.Cecil.dll
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\Unity.DataContract.dll
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\ExCSS.Unity.dll
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\Unity.CecilTools.dll
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\UnityEngine.xml
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\UnityEditor.xml
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\UnityEngine.UI.xml
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\UnityEngine.TestRunner.xml
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\nunit.framework.xml
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\UnityEngine.Timeline.xml
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\UnityEngine.Analytics.xml
+F:\Pemograman Game\Latihan01\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\Pemograman Game\Latihan01\obj\Debug\Assembly-CSharp.dll
+F:\Pemograman Game\Latihan01\obj\Debug\Assembly-CSharp.pdb
+C:\Users\praktikan\Downloads\Latihan01\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\praktikan\Downloads\Latihan01\obj\Debug\Assembly-CSharp.dll
+C:\Users\praktikan\Downloads\Latihan01\obj\Debug\Assembly-CSharp.pdb
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\nunit.framework.dll
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\UnityEditor.dll
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\UnityEngine.dll
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\UnityEngine.xml
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\UnityEditor.xml
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\nunit.framework.xml
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\praktikan\Downloads\Latihan01\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\obj\Debug\Assembly-CSharp.dll
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\nunit.framework.dll
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\UnityEditor.dll
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\UnityEngine.dll
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\Mono.Cecil.dll
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\Unity.DataContract.dll
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\ExCSS.Unity.dll
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\UnityEngine.xml
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\UnityEditor.xml
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\nunit.framework.xml
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\Materi\Semester 5\Pemograman Game\Latihan 1(2D)\Pertemuan 2\Latihan01\obj\Debug\Assembly-CSharp.pdb
